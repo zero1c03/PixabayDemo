@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078782848586",
+    "project_id": "pixabaydemo-18f2b",
+    "storage_bucket": "pixabaydemo-18f2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078782848586:android:d3d97b46db096b4c53c0b3",
+        "android_client_info": {
+          "package_name": "com.weber.pixabaydemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078782848586-neve1lkk7imqunn7bg15d9jov0hh7i6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBonAlTcleol9bzD3LyQpanRi8Vm8CJca8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078782848586-neve1lkk7imqunn7bg15d9jov0hh7i6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
